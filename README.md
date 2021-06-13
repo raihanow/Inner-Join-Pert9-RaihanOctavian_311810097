@@ -1,2 +1,6 @@
-<img width="429" alt="Normalisasi" src="https://user-images.githubusercontent.com/46749148/120312720-48e1ae00-c303-11eb-80b1-480f769efdee.png">
-<img width="588" alt="Table Inner Join" src="https://user-images.githubusercontent.com/46749148/120312799-5d25ab00-c303-11eb-8f5a-6d333fc11471.png">
+CDM
+<img width="571" alt="CDM" src="https://user-images.githubusercontent.com/46749148/121803875-afed5400-cc6d-11eb-9367-8a7564bbeb27.png">
+PDM
+<img width="484" alt="PDM" src="https://user-images.githubusercontent.com/46749148/121803879-b7acf880-cc6d-11eb-88bd-551d0369f786.png">
+Tampilan Table
+<img width="763" alt="1" src="https://user-images.githubusercontent.com/46749148/121803850-96e4a300-cc6d-11eb-9a6d-a3227ab9b3d5.png">
